@@ -1,0 +1,10 @@
+Flask-MySQL_CURD-App/
+│
+├── app.py               # Main Flask application
+├── templates/           # HTML templates
+│   ├── index.html
+│   ├── add.html
+│   └── edit.html
+├── static/              # CSS, JS, images (optional)
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
